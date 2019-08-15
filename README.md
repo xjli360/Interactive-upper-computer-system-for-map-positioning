@@ -9,3 +9,4 @@ C#实现，针对辽宁省机器人大赛设计的上位机定位系统
 
 
 this repository 不包含下位机程序，下位机程序详见：
+https://github.com/VulcanLIU/SWJLocation-V2.0.git
