@@ -15,3 +15,5 @@ C#实现，针对辽宁省机器人大赛设计的上位机定位系统
 
 this repository 不包含下位机程序，下位机程序详见：
 https://github.com/VulcanLIU/SWJLocation-V2.0.git
+
+https://github.com/MoonCatdd/Interactive-upper-computer-system-for-map-positioning/blob/master/the%20global%20positon%20of%20robot/%E5%85%A8%E5%B1%80%E5%AE%9A%E4%BD%8D3.1%E8%B0%83%E8%AF%95/%E6%8D%95%E8%8E%B7.PNG
