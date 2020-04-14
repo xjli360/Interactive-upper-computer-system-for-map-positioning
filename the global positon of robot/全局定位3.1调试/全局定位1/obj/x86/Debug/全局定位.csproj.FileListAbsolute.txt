@@ -1,0 +1,9 @@
+D:\本科项目及比赛资料\全局定位上位机系统\the global positon of robot\全局定位3.1调试\全局定位1\bin\Debug\全局定位1.exe
+D:\本科项目及比赛资料\全局定位上位机系统\the global positon of robot\全局定位3.1调试\全局定位1\bin\Debug\全局定位1.pdb
+D:\本科项目及比赛资料\全局定位上位机系统\the global positon of robot\全局定位3.1调试\全局定位1\obj\x86\Debug\全局定位.csprojAssemblyReference.cache
+D:\本科项目及比赛资料\全局定位上位机系统\the global positon of robot\全局定位3.1调试\全局定位1\obj\x86\Debug\全局定位1.Properties.Resources.resources
+D:\本科项目及比赛资料\全局定位上位机系统\the global positon of robot\全局定位3.1调试\全局定位1\obj\x86\Debug\全局定位.csproj.GenerateResource.cache
+D:\本科项目及比赛资料\全局定位上位机系统\the global positon of robot\全局定位3.1调试\全局定位1\obj\x86\Debug\全局定位.csproj.CoreCompileInputs.cache
+D:\本科项目及比赛资料\全局定位上位机系统\the global positon of robot\全局定位3.1调试\全局定位1\obj\x86\Debug\全局定位1.exe
+D:\本科项目及比赛资料\全局定位上位机系统\the global positon of robot\全局定位3.1调试\全局定位1\obj\x86\Debug\全局定位1.pdb
+D:\本科项目及比赛资料\全局定位上位机系统\the global positon of robot\全局定位3.1调试\全局定位1\obj\x86\Debug\全局定位1.全局定位.resources
